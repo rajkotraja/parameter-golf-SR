@@ -1,0 +1,13 @@
+{
+  "track": "10min_16mb",
+  "date": "2026-03-20",
+  "name": "Combined SOTA + PyTorch 2.4 Compatibility",
+  "author": "rajkotraja",
+  "seed_results": {
+    "1337": {"val_loss": 1.98200262, "val_bpb": 1.17385359, "steps": 12244, "ms_per_step": 49.01}
+  },
+  "mean_val_loss": 1.98200262,
+  "mean_val_bpb": 1.17385359,
+  "artifact_bytes": 15281645,
+  "code_bytes": 55835
+}
